@@ -1,4 +1,4 @@
-[English](/README.md) | [中文](/README.zh_CN.md) | [Español](/README.es_ES.md) | [Русский](/README.ru_RU.md)
+[English](/README.md) | [فارسی](/README.fa_IR.md) | [العربية](/README.ar_EG.md) |  [中文](/README.zh_CN.md) | [Español](/README.es_ES.md) | [Русский](/README.ru_RU.md)
 
 <p align="center">
   <picture>
@@ -245,8 +245,8 @@ location /sub {
 
 ## 建议使用的操作系统
 
-- Ubuntu 20.04+
-- Debian 11+
+- Ubuntu 22.04+
+- Debian 12+
 - CentOS 8+
 - OpenEuler 22.03+
 - Fedora 36+
@@ -254,11 +254,12 @@ location /sub {
 - Parch Linux
 - Manjaro
 - Armbian
-- AlmaLinux 8.0+
-- Rocky Linux 8+
+- AlmaLinux 9.5+
+- Rocky Linux 9.5+
 - Oracle Linux 8+
 - OpenSUSE Tubleweed
 - Amazon Linux 2023
+- Virtuozzo Linux 8+
 - Windows x64
 
 ## 支持的架构和设备
@@ -282,6 +283,7 @@ location /sub {
 
 ## Languages
 
+- Arabic (阿拉伯)
 - English（英语）  
 - Persian（波斯语）  
 - Traditional Chinese（繁体中文）  
